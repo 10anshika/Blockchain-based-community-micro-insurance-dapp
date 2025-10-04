@@ -1,6 +1,6 @@
 🚀 24 Hours. One Global Problem. One Breakthrough Solution. 🌍
 
-At the Aptos Blockchain Hackathon, our team — Mishra Anshika, Tanmay Kunjir, Ojas Lanjekar — built a micro-insurance platform for underserved communities living on just $2–$5/day.
+At the Aptos Blockchain Hackathon, our team: Mishra Anshika, Tanmay Kunjir, Ojas Lanjekar — built a micro-insurance platform for underserved communities living on just $2–$5/day.
 
 💡 In one sprint, we shipped:
 ✅ Automated claims processing
